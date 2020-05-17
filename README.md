@@ -1,2 +1,2 @@
 # thesis_BA
-A repository for my thesis
+A repository for my thesis models
